@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+streamlit
+scikit-learn
+statsmodels
+prophet
+tensorflow
+keras
+requests
+openpyxl
+jupyter
+nbformat
+folium
+streamlit-folium
