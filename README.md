@@ -81,6 +81,14 @@ Risk tiers: Low (0–25), Moderate (25–50), High (50–75), Critical (75–100
 | 📊 Model Forecast | Live Prophet forecast with configurable horizon and accuracy metrics |
 
 ---
+### 🌍 Global Overview
+![Global Overview](screenshots/01_global_overview.png)
+
+### 🗺️ Risk Map
+![Risk Map](screenshots/04_risk_map.png)
+
+### 📊 Model Forecast
+![Model Forecast](screenshots/05_model_forecast.png)
 
 ## Setup Instructions
 
